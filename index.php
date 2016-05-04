@@ -28,4 +28,5 @@ $dates = getDatesFromRange('2016-04-01', '2016-07-01');
 // Print the output
 $test = implode("<br/>", $dates);
 
-echo $test;
+echo $test . "test";
+
