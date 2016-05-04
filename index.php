@@ -18,7 +18,7 @@
 
 	<div class="row top">
 		<div class="col-md-12">
-			<h1>Wrapper Class</h1>
+			<h1>Wrapper Class Your Mum In Clingfilm And Kick Her Down The Stairs .COM</h1>
 				<button class="btn btn-default">Home</button>
 				<button class="btn btn-default">Profile</button>
 				<button class="btn btn-default">Test</button><p>THIS IS A CHANGEs</p>
