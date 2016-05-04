@@ -1,0 +1,22 @@
+body{height:100%; padding:0px; background-color:white;}
+
+/* TEXT */
+h1, h2, h3, h4, p, label, .btn {font-family: 'Orbitron', cursive;}
+.btn{font-size:18px;}
+label{margin-bottom:5px;}
+input{margin-bottom:10px;}
+input[type=text],[type=password]{cursor:pointer;}
+button[type=submit]{cursor:cell;}
+
+/* CLASSES */
+.center {
+	background-color:#e6e6e6;
+	color:#262626;
+	text-shadow:1px 1px white;
+	height:100%;
+}
+.top{
+	background-color:#262626;
+	height:150px;
+	color:white;
+}
