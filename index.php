@@ -29,7 +29,7 @@
 		<div class="col-md-4 well">
 			<label for="name1">Real Name:</label>
 			<input name="name1" id="name1" class="form-control" type="text" />
-			<label for="name2">Online Name:</label>
+			<label for="name2">Online Alias:</label>
 			<input name="name2" id="name2" class="form-control" type="text" />
 			<label for="email">Email:</label>
 			<input name="email" id="email" class="form-control" type="text" />
