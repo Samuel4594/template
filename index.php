@@ -25,7 +25,7 @@
 		</div>
 	</div>
 	<div class="col-md-12 ">
-	<h2>User Profile</h2>
+	<h1>User Profile</h1>
 		<div class="col-md-4 well">
 			<label for="name1">Real Name:</label>
 			<input name="name1" id="name1" class="form-control" type="text" />
